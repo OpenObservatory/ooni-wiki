@@ -1,5 +1,5 @@
 <!-- TITLE: OONI Wiki -->
-<!-- SUBTITLE: Welcome to out wiki -->
+<!-- SUBTITLE: Open Observatory of Network Interference -->
 
 Welcome to the OONI wiki.
 # Italy
